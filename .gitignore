@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 .env
+.env.example
+.env.local
+.env.staging
 
 # testing
 /coverage
